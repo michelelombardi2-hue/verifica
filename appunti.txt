@@ -1,0 +1,1 @@
+Su Git ho imparato a gestire un repository e ad usare i comandi base come git init,git clone, git add .,git commit -m "...",git push per mandare dati e git pull per prendere dati.
